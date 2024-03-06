@@ -1,0 +1,6 @@
+let var edad: Integer in
+    if edad then begin
+        print(HOLA)
+    end else begin
+        print(HOLA)
+    end
